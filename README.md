@@ -11,7 +11,7 @@ A simple web-based QR Code Generator that allows users to generate QR codes from
 
 ## Demo
 
-You can try the live version of the project here:[QR Code Generator](https://smart-qr-code-generator.netlify.app/)
+You can try the live version of the project here: [QR Code Generator](https://smart-qr-code-generator.netlify.app/)
 
 ## Technologies Used
 
