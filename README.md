@@ -10,7 +10,7 @@ A simple web-based QR Code Generator that allows users to generate QR codes from
 - User-friendly interface with a simple design.
 
 ## Demo
-
+Image: ![Image](QRCodeGenerator.png)
 You can try the live version of the project here: [QR Code Generator](https://smart-qr-code-generator.netlify.app/)
 
 ## Technologies Used
